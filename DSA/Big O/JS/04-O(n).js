@@ -11,3 +11,4 @@ function findLaptop(array){
 findLaptop(lapArray) // O(n) - Linear time
 
 // O(n) because Operation is depends on Input
+// O(n) means n times operation

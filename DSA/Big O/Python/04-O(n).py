@@ -15,3 +15,4 @@ my_function(list_3) # O(6)
 # in O(n), input element == operation
 # we can write O(n) or O(x) or O(fish) or O(anything)
 # O(n) here O means 'Big O' & n means 'number of input'
+# O(n) means n times operation
